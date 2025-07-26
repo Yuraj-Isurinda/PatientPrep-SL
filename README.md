@@ -82,4 +82,4 @@ Firebase (Google Cloud Platform).
 
 ## Architecture Overview
 
-![Architecture](Architecture (3).png)
+![Architecture](https://github.com/Yuraj-Isurinda/PatientPrep-SL/blob/main/Architecture%20(3).png)
